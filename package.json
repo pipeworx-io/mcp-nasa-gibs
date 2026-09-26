@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nasa-gibs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "NASA GIBS MCP — the satellite-imagery layer catalogue behind Worldview.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-fb7913be99fec47d736f0eab3a346c31281ae3a06de222888f165d4121617bcf",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-e29f2e5ece99e7d5c9b181126447f328f2e6b0156ff872817ad2cc049fef09e0",
+    "sourceCommit": "6182c4cfebddb94950e060b5d2fca18f18ad1aca"
   }
 }
